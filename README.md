@@ -28,11 +28,11 @@ The data is stored locally using a JSON file, making the project lightweight and
 
 ## 📂 Project Structure
 ---
-ExpenseTracker/
-│
-├── expense_tracker.py # Main Python script
-├── expenses.json # Stores expense data
-└── README.md # Project documentation
+- ExpenseTracker/
+- │
+- ├── expense_tracker.py # Main Python script
+- ├── expenses.json # Stores expense data
+- └── README.md # Project documentation
 
 
 ---
