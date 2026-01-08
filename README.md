@@ -26,6 +26,7 @@ The data is stored locally using a JSON file, making the project lightweight and
   - `json`
   - `datetime`
 
+## 📂 Project Structure
 ---
 ExpenseTracker/
 │
@@ -91,5 +92,5 @@ Python beginners
 Practicing file handling
 Understanding basic CLI applications
 Learning JSON-based persistence
-## 📂 Project Structure
+
 
